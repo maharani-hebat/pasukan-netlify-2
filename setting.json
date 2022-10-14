@@ -5,6 +5,7 @@
   "target":"https://tryhardguides.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
+    ".script data-no-optimize",
     ".js-consent-banner",
     ".js-dismissable-hero",
     ".js-sidebar-zone",
