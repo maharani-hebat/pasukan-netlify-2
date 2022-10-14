@@ -6,7 +6,7 @@
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     ".script",
-    "cls-video-container",
+    ".cls-video-container",
     ".js-consent-banner",
     ".js-dismissable-hero",
     ".js-sidebar-zone",
@@ -22,8 +22,8 @@
       ],
       "replace-string":[
         {
-          "target":"https://stackoverflow.com",
-          "replace":"${nameWeb}"
+          "target":"cls-video-container-pDxZ3SYb",
+          "replace":"KODE IKLAN DISINI"
         }
       ]
     },
