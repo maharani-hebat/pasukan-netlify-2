@@ -6,7 +6,7 @@
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     ".script",
-    ".cls-video-container-pDxZ3SYb",
+    ".adthrive",
     ".js-consent-banner",
     ".js-dismissable-hero",
     ".js-sidebar-zone",
@@ -22,7 +22,7 @@
       ],
       "replace-string":[
         {
-          "target":"cls-video-container-pDxZ3SYb",
+          "target":"adthrive",
           "replace":"KODE IKLAN DISINI"
         }
       ]
